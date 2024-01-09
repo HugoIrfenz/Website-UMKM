@@ -1,0 +1,47 @@
+body {
+  min-height: 3500px;
+}
+
+footer {
+  margin-top: -1px;
+}
+
+.jumbotron {
+  padding-top: 8rem;
+  background-color: #c6f8f4;
+}
+
+#About {
+  padding-top: 1rem;
+}
+
+#Katalog {
+  padding-top: 6rem;
+  background-color: #c6f8f4;
+}
+
+#Contact {
+  padding-top: 7rem;
+}
+
+#Logo-Head {
+  box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+  -webkit-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+}
+
+#About {
+  margin-top: 2rem;
+}
+
+#Our-Team {
+  padding-top: 1.5rem;
+  margin-top: -1px;
+  background-color: #c6f8f4;
+}
+
+/* .Logo {
+  box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+  -webkit-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+} */
